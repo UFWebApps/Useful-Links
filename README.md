@@ -60,6 +60,7 @@ Related Technologies
 
 The latest web tech that might not help you in the class, but are worth checking out.
 * [React.js](https://facebook.github.io/react/) - Facebook's answer to AngularJS
+* [Ember.js](http://emberjs.com/) - Community driven answer to React and Angular
 * [Ionic](http://ionicframework.com/) - Make iOS/Android apps with AngularJs
 * [Meteor](https://www.meteor.com/) - A JavaScript App Platform
 * [Cassandra vs MongoDB vs CouchDB vs Redis](http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis) - Comparison of popular databases
