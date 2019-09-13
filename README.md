@@ -6,6 +6,7 @@ Table of Contents
 =================
 
   * [Tutorials](#tutorials)
+  * [Articles](#articles)
   * [Tools &amp; Resources](#tools--resources)
   * [Design Patterns](#design-patterns)
       * [Front-end](#front-end)
@@ -23,16 +24,25 @@ Tutorials
 * [MEAN-Learning](https://github.com/ericdouglas/MEAN-Learning)
 * [Git Immersion](http://gitimmersion.com/)
 * [Class MEANJS Install Guide](https://docs.google.com/document/d/1Vj3NJlzzqpkeg9a73v0R26lgqnYwoV7kgZ_MxMLk6S8/edit?usp=sharing)
+* [REST API Tutorial](https://github.com/UFWebApps/REST-API-Tutorial)
+
+Articles
+=========
+
+* [The most important lessons I’ve learned after a year of working with React](https://link.medium.com/YmjCDuEWMZ)
+* [What exactly is RESTful programming?](https://stackoverflow.com/questions/671118/what-exactly-is-restful-programming)
 
 Tools & Resources
 =================
 
 * [Pivotal Tracker](https://www.pivotaltracker.com/) - Project Management
+* [Trello](https://trello.com) - Project Management
 * [Balsamiq](https://balsamiq.com/) - Wireframes
 * [Slack](https://slack.com/) - Team communication
 * [SourceTree](https://www.sourcetreeapp.com/) - Git GUI that works
 * [Heroku](https://www.heroku.com) - Deploy your app easily
 * [Jekyll](https://jekyllrb.com/) - Create static sites via markdown, great for portfolios
+* [Postman](https://www.getpostman.com/) - Test your APIs with ease
 * [Travis CI](https://travis-ci.org/) - Test and Deploy with Confidence
 * [Github Student Developer Pack](https://education.github.com/pack) - Free stuff
 
